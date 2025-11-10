@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   standalone: false
 })
 export class AppComponent implements OnInit {
-  title = 'C a m i l o 4 0 4';
+  title = 'H A R R Y';
   animSeq = ["/", "$", "\\", "|", "$"];
   animIndex = 0;
   titleIndex = 0;
